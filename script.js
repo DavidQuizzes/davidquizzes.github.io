@@ -22,7 +22,7 @@ var quizzes2 = {
   quizzes: [
     {
       name: "Demo math quiz (used for development and by DavidDGTNT)",
-      link: "https://daviddgtnt.github.io/SingleplayerQuiz/"
+      link: "https://davidquizzes.github.io/SingleplayerQuiz/"
     },
   ],
 }
@@ -41,7 +41,7 @@ var lcsQuizzes = {
   quizzes: [
     {
       name: "Demo math quiz (used for development and by David)",
-      link: "https://daviddgtnt.github.io/SingleplayerQuiz/"
+      link: "https://davidquizzes.github.io/SingleplayerQuiz/"
     },
   ],
 }
