@@ -34,6 +34,10 @@ button:hover {
     padding: 10px;
     font-size: 9px;
   }
+  button:hover {
+    background-color: #eeeeee;
+    color: #000000;
+  }
 }
 
 .button {
