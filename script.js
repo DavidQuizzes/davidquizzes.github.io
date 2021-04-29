@@ -97,9 +97,5 @@ function devguide() {
 }
 
 function submit() {
-  var subheader = genSubheader('Submit')
-
-  var content = `${genParagraph('We are currently not accepting submissions.')}`
-
-  document.getElementById('content').innerHTML = `${mainHeader}${subheader}<br>${content}`
+  location.assign('https://replit.com/@dugo3number3/SingleplayerQuizSubmit')
 }
