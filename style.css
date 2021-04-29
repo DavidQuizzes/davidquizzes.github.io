@@ -29,6 +29,13 @@ button:hover {
   color: #ffffff;
 }
 
+@media only screen and (max-width: 600px) {
+  button {
+    padding: 15px;
+    font-size: 9px;
+  }
+}
+
 .button {
   transition: 500ms;
   padding: 30px;
